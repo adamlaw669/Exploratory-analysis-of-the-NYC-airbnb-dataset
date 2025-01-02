@@ -19,7 +19,7 @@ The datasets used in this project are:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/adamlaw669/Exploratory-analysis-of-the-NYC-airbnb-dataset
     cd your-repo
     ```
 
